@@ -9,10 +9,7 @@ public class Solution {
 		int V = s.nextInt();
 		int E = s.nextInt();
 
-		/* Write Your Code Here
-		 * Complete the Rest of the Program
-		 * You have to take input and print the output yourself
-		 */
+		
         Edges input[] = new Edges[E];
         for(int i=0;i<E;i++){
             input[i]= new Edges();
